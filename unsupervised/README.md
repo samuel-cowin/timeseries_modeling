@@ -1,5 +1,10 @@
 # Example on how to use the models with data
 
+## Import the model and utils
+```python
+from unsupervised import ConvVAE
+```
+
 ## Define the model and set hyperparameters
 ```python 
 cvae, encVAE, decVAE = ConvVAE(loss_option=1, filters=16, kernel=3, \
