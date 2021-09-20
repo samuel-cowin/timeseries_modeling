@@ -1,4 +1,4 @@
-# Example on how to use the model with data
+# Example on how to use the models with data
 
 ## Define the model and set hyperparameters
 ```python 
