@@ -1,5 +1,5 @@
 # Unsupervised Models
-<br><br>Models implemented assuming batch as first dimension: 
+Models implemented assuming batch as first dimension: 
 <br> - t-SNE, Input: (latent space dimension)
 <br> - Kernel PCA, Inputs: (samples, channels)
 <br> - Linear Variational Autoencoder, Input: (channels)
